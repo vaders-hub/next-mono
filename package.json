@@ -2,7 +2,6 @@
   "name": "next-mono",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "turbo run --parallel dev",
     "build:admin": "pnpm --filter admin build",
