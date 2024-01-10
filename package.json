@@ -1,0 +1,14 @@
+{
+  "name": "next-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo run --parallel dev",
+    "lint": "turbo run lint",
+    "format": "turbo run format"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
